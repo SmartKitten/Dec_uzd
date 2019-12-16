@@ -1,0 +1,35 @@
+body{
+    background-color: #ffc547;
+    padding-top: 65px;
+}
+
+.navbar-expand-md{
+    background-color: darkorange;
+}
+
+.navbar-toggler{
+    background-color: #db7400;
+}
+
+.navbar-brand{
+    color: #44aaee;
+}
+
+.table{
+    background-color: white;
+    margin: 0;
+}
+
+.bcktotop{
+    position: fixed;
+    background-color: orangered;
+    right: 50%;
+    bottom: 5%;
+}
+
+.btn-block{
+    text-align: center;
+    line-height: 1.5;
+    display: inline-block;
+    width: 100px;
+}
